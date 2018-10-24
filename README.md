@@ -2,7 +2,7 @@
 Fdf 
 </h1>
 
-<h2> Description </h2>
+<h3> Description </h3>
 <p>Tous les programmes que vous avez écris jusqu'à maintenant s'exécutaient uniquement en mode texte dans votre terminal.
 Découvrons maintenant quelque chose de plus excitant : comment ouvrir une fenêtre graphique et dessiner dedans ?
 Pour commencer votre voyage au pays de la programmation graphique,
